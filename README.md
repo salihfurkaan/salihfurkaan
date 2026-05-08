@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Salih Furkan</h1>
-<h3 align="center">A computer science & engineering student,life long learner, quadrilingual, ai enthusiast</h3>
+<h3 align="center">
+I build AI systems that ship: across LLM orchestration, embodied AI, speech, and computer vision.
+Most engineers specialize in one layer. I work across all of them: designing multi-agent architectures, fine-tuning and merging large models, building real-time sensor fusion pipelines, and deploying everything from cloud inference to edge hardware. I've taken projects from a blank repo to a production-ready system, repeatedly, across concurrent roles.
+On the model side, I work with fine-tuning (LoRA, QLoRA, DPO, RLHF), model merging (SLERP, DARE-TIES), quantization (GGUF), and alignment, not just running existing pipelines, but designing them. One of my open-source medical LLMs outperforms models 8× its size on USMLE benchmarks. A Polish TTS suite I built crossed 6,000 downloads and filled a real production gap for a low-resource language.
+On the systems side, I architect agentic workflows with multi-agent arbitration, supervisor-agent safety layers, and task-adaptive retrieval. I've built sub-100ms sensor fusion pipelines handling real-time inputs from wearable hardware, and motor control abstraction layers that translate LLM reasoning into actuator commands for robotic systems.
+I'm also a researcher (multi-agent clinical AI, FET 2026), an active open-source contributor with datasets spanning medical reasoning and Turkish-language benchmarks, and a contributor to national and international AI research communities.
+What I bring to a team: the rare ability to move fast between research and engineering, own the full technical scope of an AI product, and deliver systems that actually work in production.
+  
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihfurkaan&label=Profile%20views&color=0e75b6&style=flat" alt="salihfurkaan" /> </p>
 
